@@ -4,4 +4,5 @@ title: About
 ---
 
 This is KMT blog.
-Hello.
+
+Study Algorithm and Markdown.
