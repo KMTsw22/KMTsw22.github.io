@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Study Markdown!"
+title:  "Study Analytics!"
 date:   2022-11-27 12:26:29 +0900
 categories: jekyll update
 comments: true
